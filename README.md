@@ -1,6 +1,8 @@
 # DisasterNLPClassification
 This is a group research project for COMP 562: Machine Learning at UNC Chapel Hill.
 
+Members: @kipprr, @tdwatson, @tasnias, @brennora
+
 Topic: Disaster Tweets
 
 Dataset: NLP Disaster Tweets (from Kaggle)
